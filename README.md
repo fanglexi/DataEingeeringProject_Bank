@@ -3,3 +3,4 @@
 
 
 - Very interesting experience to do this project to learn how the plaform works
+- Add a webscraping cheating sheet [ beautifulsoup | python ]
